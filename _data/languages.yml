@@ -1,10 +1,16 @@
 - string: ar
 
+- string: cmn
+
 - string: de
 
 - string: en
 
+- string: es
+
 - string: fr
+
+- string: hi
 
 - string: hy
 
@@ -27,3 +33,5 @@
 - string: sv
 
 - string: tl
+
+- string: ur
